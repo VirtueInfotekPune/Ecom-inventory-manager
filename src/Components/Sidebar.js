@@ -30,7 +30,8 @@ function Sidebar() {
               <Link to="/" className="up-btn">Home</Link></button>
           </div>
           <div className="db-btn">
-            <button> <Link to="https://baseapm-1atp.onrender.com/" className="up-btn">Logout</Link></button>
+            {/* <button> <Link to="https://baseapm-1atp.onrender.com/" className="up-btn">Logout</Link></button> */}
+            <button> <Link to="https://ecom-im-da-app.onrender.com/" className="up-btn">Logout</Link></button>
           </div>
         </div>
         <div className="inventory-manager">
